@@ -1,0 +1,5 @@
+- [x] Build the Stella Massage Spa single page with selected dark editorial direction
+- [x] Add generated professional image set and five image hero rotation
+- [x] Add services, real visible pricing, reviews, FAQ, theme toggle, and five link navigation
+- [x] Add quote form with WhatsApp, Telegram, and SMS handoff
+- [ ] Validate the live preview at mobile and desktop widths and resolve any build or runtime issues
