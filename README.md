@@ -22,9 +22,7 @@ Telegram
 
 @StellaInSilk add a premium logo to it add real pricing once filled the send button they should choose between Telegram or Whatsapp or sms with prefilled message well composed and professional images of the pricing details is in the image and the massage therapist image but if you are adding it make sure she's in a more professional massage cloth that makes man want to hire her for massage the face of someone doing massage for clients must be the face of this woman in black all images must be added to the code
 
-This project was built with [Lovable](https://lovable.dev).
 
-## Build with Lovable
 
 Continue developing this project in the [Lovable editor](https://lovable.dev/projects/2b0eb003-a603-4e6d-bf26-85a1ed73eda3).
 
